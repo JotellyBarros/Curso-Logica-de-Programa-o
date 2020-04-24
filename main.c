@@ -1,5 +1,5 @@
 /*
- * hello.c
+ * main.c
  *
  * Copyright 2020 Jotelly Barros <jotellybarros@jotelly-speed>
  *
